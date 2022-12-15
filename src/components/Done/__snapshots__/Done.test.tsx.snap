@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Done /> Matches the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2
+      class="username"
+    >
+        
+    </h2>
+    <h1>
+       Game over 
+    </h1>
+    <button
+      class="button"
+    >
+      Play Again
+    </button>
+  </div>
+</DocumentFragment>
+`;

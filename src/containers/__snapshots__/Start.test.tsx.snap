@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Start /> Matches the snapshot 1`] = `
+<DocumentFragment>
+  <p>
+    Insert your username 
+    <i
+      class="fas fa-graduation-cap"
+    />
+  </p>
+  <input
+    class="input input-sm"
+    id="textId"
+    type="text"
+  />
+  <p>
+     Then press to start the game 
+  </p>
+  <button
+    class="button"
+  >
+    Start
+  </button>
+</DocumentFragment>
+`;

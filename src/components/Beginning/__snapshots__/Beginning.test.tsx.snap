@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Beginning /> Matches the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h3>
+       The game will be start in... 
+    </h3>
+    <h1>
+       3 
+    </h1>
+  </div>
+</DocumentFragment>
+`;

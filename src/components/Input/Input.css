@@ -1,0 +1,18 @@
+
+.input {
+  padding: 1em;
+  border-radius: 6px;
+  border: 2px solid #002d87;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.input-sm {
+  padding: 0.3rem;
+}
+
+.input-error {
+  color: red;
+  font-size: 0.6em;
+}
